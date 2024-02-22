@@ -27,6 +27,16 @@ Leveraging **Excel's** powerful features, the project includes:
 
 **Conversion Fluctuation Analysis:** Specific conversions which exhibited fluctuations have been identified by examining overall conversion rates and breaking them down into smaller components in the funnel (L2M, M2C, C2P, P2O). Hypotheses to explain these fluctuations have been formulated, considering how various factors influenced user behavior using supporting data.
 
+![SwiggyDashboard](https://github.com/ManshaVirdi/Swiggy-Funnel-Analysis/assets/160833599/9fd9a4ae-ff87-4789-909e-4b2a3abbfe39)
+
+### Insights
+
+1. Highest monthly sales observed in the month of Jan 2019 where the number of operating restaurants was also the highest, followed by July, Aug, Dec etc.
+2. Lowest monthly sales observed in Feb 2019 where the number of operating restaurants was also the lowest
+3. The Primary source of traffic is Facebook, followed by YouTube, Twitter and Others
+
+(Detailed Insights in the attached pdf - 'Swiggy Funnel Analysis.pdf'
+
 ### Recommendations
 Below are few recommendations based on the analysis for the data provided above. These recommendations are to help strengthen relations of Swiggy with all stakeholders involved and thereby improve overall sales and profits.
 - Strengthen Relationships with Partner Restaurants and provide incentives for Long-term commitment
